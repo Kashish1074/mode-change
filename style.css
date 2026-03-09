@@ -1,0 +1,16 @@
+#mode{
+    position:relative;
+    color:whitesmoke;
+    background-color:#30292F;
+    border-color:#30292F;
+    background-origin: padding-box;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position-area: inherit;
+}
